@@ -4,6 +4,3 @@ description: 小白从基础开始学习二进制安全，记录自己的学习�
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-permalink: /:year/:month/:day/:title/
-baseurl: ""
-url: "https://reverse0xcc.github.io"
